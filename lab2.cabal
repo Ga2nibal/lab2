@@ -16,6 +16,7 @@ build-type:          Simple
 cabal-version:       >=1.10
 
 executable lab2
+  ghc-options:         -Wall
   main-is:             Main.hs
   -- other-modules:       
   -- other-extensions:    
